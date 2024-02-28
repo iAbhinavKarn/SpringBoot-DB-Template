@@ -9,7 +9,7 @@ Follow these steps to get started with your Spring Boot project:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/SpringBoot-DB-Template.git
+   git clone https://github.com/iAbhinavKarn/SpringBoot-DB-Template.git
 
 2. **Customize the database settings:**
    Adjust the database configuration in `src/main/resources/application.properties` to suit your needs.
